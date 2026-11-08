@@ -21,23 +21,6 @@ export const Manager = ()=> {
         });
     }, []);
 
-
-  
-
-    //Confirmed testdrives functions-----------------------------------------
-
-    /*onst showConfirmedTD = ()=>{
-        Axios.get("http://localhost:3005/viewConfirmed").then((response)=> {
-            if(response.data.length > 0){
-                console.log(response);
-                setTestDriveList(response.data);
-            }
-            else{
-                alert('No confirmed testdrives available');
-            }
-        });
-    };*/
-
     const doneTestDrive = (id)=>{
         Axios.put("http://localhost:3005/testdrive/done", 
         { tid : id

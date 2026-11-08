@@ -1,7 +1,6 @@
 # Testdrive-Management-System
 
-Purpose of Project:
-Our DBMS project idea is to develop a Testdrive management system for a car dealership. Our project aims to make the process of booking and managing testdrives more convenient for both the customers and the dealership’s testdrive manager. 
+Project idea is to develop a Testdrive management system for a car dealership. Our project aims to make the process of booking and managing testdrives more convenient for both the customers and the dealership’s testdrive manager. 
 Since most of the dealerships still maintain a handwritten register and most of the communication is verbal and due to this documenting the information for future use becomes cumbersome. 
 Our Testdrive management system makes this entire process more convenient by acting as bridge between customers and dealership authority as well as maintaining the realtime status of a testdrive in a database.
 
@@ -60,4 +59,4 @@ This diagram gives a breif description of our database,engineered in a way to en
 
 ![WhatsApp Image 2022-11-03 at 2 15 17 AM](https://user-images.githubusercontent.com/89973309/226273827-8acc6b85-3861-4f34-9fc4-18050d37cc36.jpeg)
 
-
+**Note:** This project is locally hosted and is not currently deployed.

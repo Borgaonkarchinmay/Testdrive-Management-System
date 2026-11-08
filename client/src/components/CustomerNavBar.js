@@ -88,32 +88,3 @@ export const CustomerNavBar = ()=> {
         </div>
     );
 };
-
-/*
-
-
-               <br></br>
-               <br></br>
-              <div class="info">
-                
-                 <div class='child abc'> 
-                 <div>NAME: </div>
-                 <div>ADDRESS:</div> 
-                 <div>MOBLIE: </div>
-                 </div>
-                 <div class='child xyz'>
-                 <div>{cust_name} </div>
-                 <div>{cust_addr}</div> 
-                 <div>{cust_mobno}</div>
-                 </div>
-                 
-                 
-       
-                        
-           </div>
-           <button class="button button2" onClick = {profile}>My Profile</button>
-                
-           
-
-
-*/
